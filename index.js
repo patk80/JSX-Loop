@@ -6,6 +6,11 @@ class App extends React.Component {
                 name="Nico Hischier"
                 hobbies={["Hockey", "Eating", "Working Out"]}
                 />
+
+                <Person 
+                name="Tony Hawk"
+                hobbies={["Skateboarding", "Video Games", "Exploring"]}
+                />
             </div>
         );
     }
